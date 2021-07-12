@@ -1,0 +1,15 @@
+{
+  "name": "todostudent_line_notify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node check_notify.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "mysql": "^2.18.1"
+  }
+}
